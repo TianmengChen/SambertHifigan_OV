@@ -1,0 +1,96 @@
+2024-06-07:14:27:28, INFO [infer_sambert.py:215] Inference sentence: 0_0
+-------------Sambert torch model infer for long sentence costs time: 43329.307617 ms-------------
+2024-06-07:14:28:12, INFO [infer_sambert.py:215] Inference sentence: 0_1
+-------------Sambert torch model infer for long sentence costs time: 45414.605713 ms-------------
+2024-06-07:14:28:57, INFO [infer_sambert.py:215] Inference sentence: 0_2
+-------------Sambert torch model infer for long sentence costs time: 44891.225342 ms-------------
+2024-06-07:14:29:42, INFO [infer_sambert.py:215] Inference sentence: 0_3
+-------------Sambert torch model infer for long sentence costs time: 48521.454346 ms-------------
+2024-06-07:14:30:31, INFO [infer_sambert.py:215] Inference sentence: 0_4
+-------------Sambert torch model infer for long sentence costs time: 28400.838623 ms-------------
+2024-06-07:14:30:59, INFO [infer_sambert.py:215] Inference sentence: 0_5
+-------------Sambert torch model infer for long sentence costs time: 26130.086182 ms-------------
+2024-06-07:14:31:25, INFO [infer_sambert.py:215] Inference sentence: 1_0
+-------------Sambert torch model infer for long sentence costs time: 43350.322021 ms-------------
+2024-06-07:14:32:08, INFO [infer_sambert.py:215] Inference sentence: 1_1
+-------------Sambert torch model infer for long sentence costs time: 45380.406006 ms-------------
+2024-06-07:14:32:54, INFO [infer_sambert.py:215] Inference sentence: 1_2
+-------------Sambert torch model infer for long sentence costs time: 47563.792236 ms-------------
+2024-06-07:14:33:41, INFO [infer_sambert.py:215] Inference sentence: 1_3
+-------------Sambert torch model infer for long sentence costs time: 51298.076172 ms-------------
+2024-06-07:14:34:33, INFO [infer_sambert.py:215] Inference sentence: 1_4
+-------------Sambert torch model infer for long sentence costs time: 30282.411621 ms-------------
+2024-06-07:14:35:03, INFO [infer_sambert.py:215] Inference sentence: 1_5
+-------------Sambert torch model infer for long sentence costs time: 25804.621826 ms-------------
+2024-06-07:14:35:29, INFO [infer_sambert.py:215] Inference sentence: 2_0
+-------------Sambert torch model infer for long sentence costs time: 43239.067627 ms-------------
+2024-06-07:14:36:12, INFO [infer_sambert.py:215] Inference sentence: 2_1
+-------------Sambert torch model infer for long sentence costs time: 45534.278564 ms-------------
+2024-06-07:14:36:58, INFO [infer_sambert.py:215] Inference sentence: 2_2
+-------------Sambert torch model infer for long sentence costs time: 47279.870361 ms-------------
+2024-06-07:14:37:45, INFO [infer_sambert.py:215] Inference sentence: 2_3
+-------------Sambert torch model infer for long sentence costs time: 51917.031982 ms-------------
+2024-06-07:14:38:37, INFO [infer_sambert.py:215] Inference sentence: 2_4
+-------------Sambert torch model infer for long sentence costs time: 30500.973145 ms-------------
+2024-06-07:14:39:07, INFO [infer_sambert.py:215] Inference sentence: 2_5
+-------------Sambert torch model infer for long sentence costs time: 25465.731689 ms-------------
+2024-06-07:14:39:33, INFO [infer_sambert.py:215] Inference sentence: 3_0
+-------------Sambert torch model infer for long sentence costs time: 43246.526611 ms-------------
+2024-06-07:14:40:16, INFO [infer_sambert.py:215] Inference sentence: 3_1
+-------------Sambert torch model infer for long sentence costs time: 45555.071533 ms-------------
+2024-06-07:14:41:02, INFO [infer_sambert.py:215] Inference sentence: 3_2
+-------------Sambert torch model infer for long sentence costs time: 47305.014648 ms-------------
+2024-06-07:14:41:49, INFO [infer_sambert.py:215] Inference sentence: 3_3
+-------------Sambert torch model infer for long sentence costs time: 51796.208252 ms-------------
+2024-06-07:14:42:41, INFO [infer_sambert.py:215] Inference sentence: 3_4
+-------------Sambert torch model infer for long sentence costs time: 30464.386963 ms-------------
+2024-06-07:14:43:11, INFO [infer_sambert.py:215] Inference sentence: 3_5
+-------------Sambert torch model infer for long sentence costs time: 25996.830566 ms-------------
+2024-06-07:14:43:37, INFO [infer_sambert.py:215] Inference sentence: 4_0
+-------------Sambert torch model infer for long sentence costs time: 43303.296387 ms-------------
+2024-06-07:14:44:20, INFO [infer_sambert.py:215] Inference sentence: 4_1
+-------------Sambert torch model infer for long sentence costs time: 44811.371338 ms-------------
+2024-06-07:14:45:05, INFO [infer_sambert.py:215] Inference sentence: 4_2
+-------------Sambert torch model infer for long sentence costs time: 48005.389404 ms-------------
+2024-06-07:14:45:53, INFO [infer_sambert.py:215] Inference sentence: 4_3
+-------------Sambert torch model infer for long sentence costs time: 48449.402832 ms-------------
+2024-06-07:14:46:42, INFO [infer_sambert.py:215] Inference sentence: 4_4
+-------------Sambert torch model infer for long sentence costs time: 28425.354980 ms-------------
+2024-06-07:14:47:10, INFO [infer_sambert.py:215] Inference sentence: 4_5
+-------------Sambert torch model infer for long sentence costs time: 23980.795166 ms-------------
+-------------Sambert torch pipeline for 5 long sentences cost time: 1207.162222 s-------------
+2024-06-07:14:47:34, INFO [text_to_wav.py:113] Vocoder is infering…
+-------------Hifigan torch model infer for long sentence costs time: 284.475098 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 207.683838 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 72.304199 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 70.390137 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 98.351074 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 361.583252 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 260.459473 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 96.165527 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 114.186279 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 222.494385 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 67.678711 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 99.410889 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 95.396240 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 108.683350 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 99.574951 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 192.895996 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 96.513916 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 93.030518 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 75.766113 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 75.018311 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 95.680664 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 74.611816 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 97.222168 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 95.343262 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 74.718262 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 97.784424 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 114.298828 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 95.554443 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 68.151123 ms-------------
+-------------Hifigan torch model infer for long sentence costs time: 112.420654 ms-------------
+2024-06-07:14:47:38, INFO [infer_hifigan.py:149] Finished generation of 30 utterances (RTF = 0.020).
+-------------Hifigan torch pipeline for 5 long sentences cost time: 4.293352 s-------------
+
+-------------TTS torch pipeline for 5 long sentences cost time: 1211.504658 s-------------

@@ -1,0 +1,127 @@
+2024-06-07:14:55:48, INFO [infer_sambert.py:228] Inference sentence: 0_0
+-------------Sambert encoder ov model infer for long sentence costs time: 22.413574 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 43439.159912 ms-------------
+2024-06-07:14:56:32, INFO [infer_sambert.py:228] Inference sentence: 0_1
+-------------Sambert encoder ov model infer for long sentence costs time: 10.926514 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 46002.915771 ms-------------
+2024-06-07:14:57:18, INFO [infer_sambert.py:228] Inference sentence: 0_2
+-------------Sambert encoder ov model infer for long sentence costs time: 10.383789 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 47482.357910 ms-------------
+2024-06-07:14:58:05, INFO [infer_sambert.py:228] Inference sentence: 0_3
+-------------Sambert encoder ov model infer for long sentence costs time: 10.823975 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 51407.500977 ms-------------
+2024-06-07:14:58:57, INFO [infer_sambert.py:228] Inference sentence: 0_4
+-------------Sambert encoder ov model infer for long sentence costs time: 9.536377 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 29396.272461 ms-------------
+2024-06-07:14:59:26, INFO [infer_sambert.py:228] Inference sentence: 0_5
+-------------Sambert encoder ov model infer for long sentence costs time: 9.487305 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 25514.683105 ms-------------
+2024-06-07:14:59:52, INFO [infer_sambert.py:228] Inference sentence: 1_0
+-------------Sambert encoder ov model infer for long sentence costs time: 8.112793 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 43303.757324 ms-------------
+2024-06-07:15:00:35, INFO [infer_sambert.py:228] Inference sentence: 1_1
+-------------Sambert encoder ov model infer for long sentence costs time: 7.874268 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 45462.057129 ms-------------
+2024-06-07:15:01:21, INFO [infer_sambert.py:228] Inference sentence: 1_2
+-------------Sambert encoder ov model infer for long sentence costs time: 7.940186 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 47377.828613 ms-------------
+2024-06-07:15:02:08, INFO [infer_sambert.py:228] Inference sentence: 1_3
+-------------Sambert encoder ov model infer for long sentence costs time: 7.905762 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 51727.883301 ms-------------
+2024-06-07:15:03:00, INFO [infer_sambert.py:228] Inference sentence: 1_4
+-------------Sambert encoder ov model infer for long sentence costs time: 7.331299 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 30094.813477 ms-------------
+2024-06-07:15:03:30, INFO [infer_sambert.py:228] Inference sentence: 1_5
+-------------Sambert encoder ov model infer for long sentence costs time: 7.516602 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 25978.923828 ms-------------
+2024-06-07:15:03:56, INFO [infer_sambert.py:228] Inference sentence: 2_0
+-------------Sambert encoder ov model infer for long sentence costs time: 9.449463 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 42500.151855 ms-------------
+2024-06-07:15:04:38, INFO [infer_sambert.py:228] Inference sentence: 2_1
+-------------Sambert encoder ov model infer for long sentence costs time: 5.914062 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 45474.711426 ms-------------
+2024-06-07:15:05:24, INFO [infer_sambert.py:228] Inference sentence: 2_2
+-------------Sambert encoder ov model infer for long sentence costs time: 7.715820 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 47493.331055 ms-------------
+2024-06-07:15:06:11, INFO [infer_sambert.py:228] Inference sentence: 2_3
+-------------Sambert encoder ov model infer for long sentence costs time: 8.080322 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 52086.440674 ms-------------
+2024-06-07:15:07:03, INFO [infer_sambert.py:228] Inference sentence: 2_4
+-------------Sambert encoder ov model infer for long sentence costs time: 5.258789 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 30180.920166 ms-------------
+2024-06-07:15:07:34, INFO [infer_sambert.py:228] Inference sentence: 2_5
+-------------Sambert encoder ov model infer for long sentence costs time: 7.866211 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 25856.576904 ms-------------
+2024-06-07:15:07:59, INFO [infer_sambert.py:228] Inference sentence: 3_0
+-------------Sambert encoder ov model infer for long sentence costs time: 6.885010 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 43526.654785 ms-------------
+2024-06-07:15:08:43, INFO [infer_sambert.py:228] Inference sentence: 3_1
+-------------Sambert encoder ov model infer for long sentence costs time: 7.875488 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 45298.912842 ms-------------
+2024-06-07:15:09:28, INFO [infer_sambert.py:228] Inference sentence: 3_2
+-------------Sambert encoder ov model infer for long sentence costs time: 7.989990 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 47256.238525 ms-------------
+2024-06-07:15:10:16, INFO [infer_sambert.py:228] Inference sentence: 3_3
+-------------Sambert encoder ov model infer for long sentence costs time: 5.854248 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 51857.223633 ms-------------
+2024-06-07:15:11:07, INFO [infer_sambert.py:228] Inference sentence: 3_4
+-------------Sambert encoder ov model infer for long sentence costs time: 7.740479 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 30491.338867 ms-------------
+2024-06-07:15:11:38, INFO [infer_sambert.py:228] Inference sentence: 3_5
+-------------Sambert encoder ov model infer for long sentence costs time: 7.748535 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 25719.333740 ms-------------
+2024-06-07:15:12:04, INFO [infer_sambert.py:228] Inference sentence: 4_0
+-------------Sambert encoder ov model infer for long sentence costs time: 6.761963 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 43325.817383 ms-------------
+2024-06-07:15:12:47, INFO [infer_sambert.py:228] Inference sentence: 4_1
+-------------Sambert encoder ov model infer for long sentence costs time: 5.850342 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 45761.402588 ms-------------
+2024-06-07:15:13:33, INFO [infer_sambert.py:228] Inference sentence: 4_2
+-------------Sambert encoder ov model infer for long sentence costs time: 7.921387 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 47233.238770 ms-------------
+2024-06-07:15:14:20, INFO [infer_sambert.py:228] Inference sentence: 4_3
+-------------Sambert encoder ov model infer for long sentence costs time: 5.708252 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 49262.465088 ms-------------
+2024-06-07:15:15:09, INFO [infer_sambert.py:228] Inference sentence: 4_4
+-------------Sambert encoder ov model infer for long sentence costs time: 7.818115 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 29074.624268 ms-------------
+2024-06-07:15:15:38, INFO [infer_sambert.py:228] Inference sentence: 4_5
+-------------Sambert encoder ov model infer for long sentence costs time: 5.570801 ms-------------
+-------------Sambert rest part of model in torch infer for long sentence costs time: 26255.674805 ms-------------
+-------------Sambert hybrid pipeline for 5 long sentences cost time: 1217.925145 s-------------
+2024-06-07:15:16:05, INFO [text_to_wav.py:123] Vocoder is infering…
+-------------Hifigan ov model infer for long sentence costs time: 593.513916 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 403.643799 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 35.808594 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 28.553467 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 51.562744 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 582.145996 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 719.151855 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 59.657227 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 63.193115 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 583.048340 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 39.251221 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 54.010986 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 53.427734 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 60.844482 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 52.560303 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 471.739746 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 58.461670 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 48.443359 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 37.286621 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 34.082031 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 54.371826 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 38.552490 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 54.548828 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 53.402832 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 37.997070 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 51.793701 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 61.634521 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 53.798828 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 31.960693 ms-------------
+-------------Hifigan ov model infer for long sentence costs time: 59.522217 ms-------------
+2024-06-07:15:18:15, INFO [infer_hifigan.py:160] Finished generation of 30 utterances (RTF = 0.025).
+-------------Hifigan ov pipeline for 5 long sentences cost time: 5.640343 s-------------
+
+-------------TTS hybrid pipeline for 5 long sentences cost time: 1,223.615237 s-------------
+
