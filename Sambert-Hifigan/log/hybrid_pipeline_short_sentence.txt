@@ -1,0 +1,96 @@
+2024-06-07:13:50:12, INFO [infer_sambert.py:215] Inference sentence: 0_0
+-------------Sambert torch model infer for short sentence costs time: 48501.113525 ms-------------
+2024-06-07:13:51:00, INFO [infer_sambert.py:215] Inference sentence: 1_0
+-------------Sambert torch model infer for short sentence costs time: 48785.928223 ms-------------
+2024-06-07:13:51:49, INFO [infer_sambert.py:215] Inference sentence: 2_0
+-------------Sambert torch model infer for short sentence costs time: 49010.589844 ms-------------
+2024-06-07:13:52:38, INFO [infer_sambert.py:215] Inference sentence: 3_0
+-------------Sambert torch model infer for short sentence costs time: 48948.456299 ms-------------
+2024-06-07:13:53:27, INFO [infer_sambert.py:215] Inference sentence: 4_0
+-------------Sambert torch model infer for short sentence costs time: 46523.122803 ms-------------
+2024-06-07:13:54:13, INFO [infer_sambert.py:215] Inference sentence: 5_0
+-------------Sambert torch model infer for short sentence costs time: 48053.908447 ms-------------
+2024-06-07:13:55:02, INFO [infer_sambert.py:215] Inference sentence: 6_0
+-------------Sambert torch model infer for short sentence costs time: 48646.046875 ms-------------
+2024-06-07:13:55:50, INFO [infer_sambert.py:215] Inference sentence: 7_0
+-------------Sambert torch model infer for short sentence costs time: 48464.977051 ms-------------
+2024-06-07:13:56:39, INFO [infer_sambert.py:215] Inference sentence: 8_0
+-------------Sambert torch model infer for short sentence costs time: 47678.011963 ms-------------
+2024-06-07:13:57:26, INFO [infer_sambert.py:215] Inference sentence: 9_0
+-------------Sambert torch model infer for short sentence costs time: 47296.527100 ms-------------
+2024-06-07:13:58:14, INFO [infer_sambert.py:215] Inference sentence: 10_0
+-------------Sambert torch model infer for short sentence costs time: 45424.826660 ms-------------
+2024-06-07:13:58:59, INFO [infer_sambert.py:215] Inference sentence: 11_0
+-------------Sambert torch model infer for short sentence costs time: 45141.933105 ms-------------
+2024-06-07:13:59:44, INFO [infer_sambert.py:215] Inference sentence: 12_0
+-------------Sambert torch model infer for short sentence costs time: 48772.623047 ms-------------
+2024-06-07:14:00:33, INFO [infer_sambert.py:215] Inference sentence: 13_0
+-------------Sambert torch model infer for short sentence costs time: 48775.201172 ms-------------
+2024-06-07:14:01:22, INFO [infer_sambert.py:215] Inference sentence: 14_0
+-------------Sambert torch model infer for short sentence costs time: 48048.364746 ms-------------
+2024-06-07:14:02:10, INFO [infer_sambert.py:215] Inference sentence: 15_0
+-------------Sambert torch model infer for short sentence costs time: 45457.761963 ms-------------
+2024-06-07:14:02:55, INFO [infer_sambert.py:215] Inference sentence: 16_0
+-------------Sambert torch model infer for short sentence costs time: 45363.328613 ms-------------
+2024-06-07:14:03:41, INFO [infer_sambert.py:215] Inference sentence: 17_0
+-------------Sambert torch model infer for short sentence costs time: 47391.087402 ms-------------
+2024-06-07:14:04:28, INFO [infer_sambert.py:215] Inference sentence: 18_0
+-------------Sambert torch model infer for short sentence costs time: 48487.484131 ms-------------
+2024-06-07:14:05:17, INFO [infer_sambert.py:215] Inference sentence: 19_0
+-------------Sambert torch model infer for short sentence costs time: 48516.625977 ms-------------
+2024-06-07:14:06:05, INFO [infer_sambert.py:215] Inference sentence: 20_0
+-------------Sambert torch model infer for short sentence costs time: 48684.420166 ms-------------
+2024-06-07:14:06:54, INFO [infer_sambert.py:215] Inference sentence: 21_0
+-------------Sambert torch model infer for short sentence costs time: 48203.804443 ms-------------
+2024-06-07:14:07:42, INFO [infer_sambert.py:215] Inference sentence: 22_0
+-------------Sambert torch model infer for short sentence costs time: 48476.717285 ms-------------
+2024-06-07:14:08:30, INFO [infer_sambert.py:215] Inference sentence: 23_0
+-------------Sambert torch model infer for short sentence costs time: 48773.225342 ms-------------
+2024-06-07:14:09:19, INFO [infer_sambert.py:215] Inference sentence: 24_0
+-------------Sambert torch model infer for short sentence costs time: 47985.340332 ms-------------
+2024-06-07:14:10:07, INFO [infer_sambert.py:215] Inference sentence: 25_0
+-------------Sambert torch model infer for short sentence costs time: 47885.210449 ms-------------
+2024-06-07:14:10:55, INFO [infer_sambert.py:215] Inference sentence: 26_0
+-------------Sambert torch model infer for short sentence costs time: 48241.958496 ms-------------
+2024-06-07:14:11:43, INFO [infer_sambert.py:215] Inference sentence: 27_0
+-------------Sambert torch model infer for short sentence costs time: 48547.479492 ms-------------
+2024-06-07:14:12:32, INFO [infer_sambert.py:215] Inference sentence: 28_0
+-------------Sambert torch model infer for short sentence costs time: 48831.431641 ms-------------
+2024-06-07:14:13:21, INFO [infer_sambert.py:215] Inference sentence: 29_0
+-------------Sambert torch model infer for short sentence costs time: 48484.866211 ms-------------
+-------------Sambert torch pipeline for 30 short sentences cost time: 1438.916400 s-------------
+2024-06-07:14:14:09, INFO [text_to_wav.py:113] Vocoder is infering...
+-------------Hifigan torch model infer for short sentence costs time: 318.372803 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 123.859619 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 120.541260 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 111.946533 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 114.238525 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 115.337402 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 124.013916 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 112.236328 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 108.424316 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 106.953369 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 110.316650 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 116.318359 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 110.948730 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 113.597656 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 109.702637 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 111.759033 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 110.582275 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 109.778320 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 107.403809 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 116.009521 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 108.864258 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 109.696777 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 112.930908 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 114.362793 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 108.866455 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 112.401611 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 111.187500 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 111.220459 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 116.370605 ms-------------
+-------------Hifigan torch model infer for short sentence costs time: 104.396729 ms-------------
+2024-06-07:14:14:13, INFO [infer_hifigan.py:149] Finished generation of 30 utterances (RTF = 0.017).
+-------------Hifigan torch pipeline for 30 short sentences cost time: 4.181104 s-------------
+
+-------------TTS torch pipeline for 30 short sentences cost time: 1443.151594 s-------------
